@@ -1,7 +1,7 @@
 # Awesome GPT Store [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome GPTs. Inspired by [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts).
 
-## 🚀 Add GPT
+## 🚀 Add-GPT
 This is a space for showcasing GPTs created by AI enthusiasts worldwide.
 
 - 🎙️ **Contributing**: `* [GPT's name](http://example.com/) - A short description.`
